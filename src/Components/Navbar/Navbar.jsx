@@ -7,7 +7,7 @@ import {AiOutlineGlobal} from 'react-icons/ai'
 import {CgMenuGridO} from 'react-icons/cg'
 
 //Imported Images ===>
-import Logo from '../../assets/logo.png'
+import Logo from '../../assets/logo1.png'
 
 const Navbar = () => {
     //code statement toggle the navbar in and out.
